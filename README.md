@@ -130,5 +130,5 @@ To explore the dashboard:
 
 If you'd like to collaborate or explore more analytics dashboards, feel free to connect with me on:
 
-Example:![Dashboard preview]()
+Example:![Dashboard preview](https://github.com/Sindukolam/Blinkit_Business_Analytics_Report/blob/main/blinkit_Snippet.png)
 
